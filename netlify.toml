@@ -15,3 +15,6 @@
 
   [plugins.inputs]
     enable = false
+
+[images]
+  remote_images = ["https://my-images.com/.*", "https://animals.more-images.com/[bcr]at/.*"]
